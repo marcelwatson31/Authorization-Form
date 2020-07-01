@@ -1,4 +1,4 @@
-
+This is a registration form component page that is reuseable and highly redesignable for clients just add your code for the navigation bar, footer, and whatever components you have and enjoy a registration form.
 
 *Note that you will need to have [Node.js](https://nodejs.org) installed.*
 
